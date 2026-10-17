@@ -46,32 +46,30 @@ Want all 11 navigation styles with customization-ready source code and a commerc
 **[Get the Full Version →](YOUR-GUMROAD-LINK)**
 
 ## Full Version Includes
- 
-• All 11 animated mobile navigation styles
-• Pure HTML, CSS, and JavaScript
-• No frameworks
-• No external dependencies
-• Readable and customization-ready source code
-• Individual HTML, CSS, and JavaScript files
-• Complete project structure
-• Responsive navigation examples
-• Interactive mobile and desktop simulations
-• Mobile device frame and preview environment
-• Documentation and usage guidance
-• Commercial-use license
+
+- All 11 animated mobile navigation styles
+- Pure HTML, CSS, and JavaScript
+- No frameworks
+- No external dependencies
+- Readable and customization-ready source code
+- Individual HTML, CSS, and JavaScript files
+- Complete project structure
+- Responsive navigation examples
+- Interactive mobile and desktop simulations
+- Mobile device frame and preview environment
+- Documentation and usage guidance
+- Commercial-use license
 
 ## Interactive Demo
 
-The root index.html file serves as the main interactive showcase for the Demo Edition.
- 
-Using the demo, you can:
- 
-• Preview the available navigation styles
-• Test menu animations and interactions
-• Explore the mobile device simulation
-• Compare different navigation approaches
-• Test the navigation behavior directly in your browser
-• Evaluate the collection before purchasing the Full Version
+The root index.html file serves as the main interactive showcase for the Demo Edition. Using the demo, you can:
+
+- Preview the available navigation styles
+- Test menu animations and interactions
+- Explore the mobile device simulation
+- Compare different navigation approaches
+- Test the navigation behavior directly in your browser
+- Evaluate the collection before purchasing the Full Version
 
 ## Demo Source Protection
 
@@ -79,35 +77,35 @@ This public repository is provided as a demonstration and evaluation version of 
 
 To protect the commercial source code, the Demo Edition uses:
 
-• Minified code
-• Obfuscated code
-• Modified project structure
-• Modified file organization
+- Minified code
+- Obfuscated code
+- Modified project structure
+- Modified file organization
 
 The original project structure and customization-ready source code are not included in this public demo.
  
 The Full Version provides the complete project files, original structure, and customization-ready source code.
  
 ## Demo Limitations
- 
+
 This repository contains the Demo Edition only.
 
 The commercial version includes all 11 navigation styles, customization-ready source code, documentation, and additional resources that are not included in this public demo.
  
 ## Requirements
- 
+
 No special software, framework, package manager, or build process is required.
 
 Simply open the Live Demo in a modern web browser.
 
 The project uses:
  
-• HTML5
-• CSS3
-• Vanilla JavaScript
+- HTML5
+- CSS3
+- Vanilla JavaScript
  
 ## Browser Support
- 
+
 The demo is intended for modern browsers that support HTML5, CSS3, and modern JavaScript features.
  
 ## License
@@ -119,7 +117,7 @@ The demo source code is not licensed for commercial use or redistribution unless
 For commercial-use rights, please refer to the Full Version and its commercial-use license.
  
 ## Full Version
- 
+
 The full commercial version includes all 11 navigation styles, readable and customization-ready source code, and a commercial-use license.
 
 For licensing and purchase inquiries:
@@ -127,6 +125,6 @@ For licensing and purchase inquiries:
 mailconnect.service@gmail.com
  
 ## Thank You
- 
+
 Thank you for your interest in 11 Animated Mobile Navigation Styles.
 
