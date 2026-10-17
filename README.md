@@ -5,7 +5,7 @@ A collection of 11 modern animated mobile navigation styles built with pure HTML
 This repository contains the public Demo Edition, allowing you to explore and interact with 7 of the 11 navigation styles directly in your browser.
  
 Live Demo
-**[View the Interactive Demo →](YOUR-GITHUB-PAGES-LINK)**
+**[View the Interactive Demo →](https://sofmik.github.io/animated-mobile-navigation-demo/)**
 
 No installation required. 
 Pure HTML, CSS & JavaScript · No Frameworks · No Dependencies
