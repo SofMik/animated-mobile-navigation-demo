@@ -43,7 +43,9 @@ The remaining 4 navigation styles are available exclusively in the Full Version:
 
 Want all 11 navigation styles with customization-ready source code and a commercial-use license?
 
-**[Get the Full Version →](YOUR-GUMROAD-LINK)**
+**Special Launch Offer — $9.99 for the First 5 Buyers!**
+
+**[Get the Full Version →](https://sofmik.gumroad.com/l/animated-mobile-navigation/FIRST5)**
 
 ## Full Version Includes
 
