@@ -29,10 +29,10 @@ You can open the Live Demo and test each available style directly in your browse
 
 The Full Version includes:
  
-✔ Individual HTML, CSS and JavaScript files for each navigation style
-✔ Interactive preview and simulation environment included
-✔ Customization-ready source code
-✔ Commercial-use license
+- ✅ Individual HTML, CSS and JavaScript files for each navigation style
+- ✅ Interactive preview and simulation environment included
+- ✅ Customization-ready source code
+- ✅ Commercial-use license
 
 The remaining 4 navigation styles are available exclusively in the Full Version:
 
